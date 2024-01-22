@@ -1,0 +1,3 @@
+[submodule "ps3"]
+	path = ps3
+	url = https://github.com/kernaltrap8/ps3

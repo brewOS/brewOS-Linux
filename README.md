@@ -10,6 +10,6 @@ Custom Linux distro for Playstation 3 based on Gentoo. WIP.
 # Installation procedure
 Format PS3 HDD to add OtherOS region.<br>Downloads the LiveCD and copy the files to a USB.<br>Mount HDD using this command: `mkdir /mnt/ps3dd1 && mount /dev/ps3dd1 /mnt/ps3dd1` (may be ps3da1 on phat consoles)<br>Download stage4 and untar it to `/mnt/ps3dd1`.<br>Reboot and select the Gentoo option from Petitboot.<br>Default login is `ps3`, password `ps3`. `root` password is `root`.
 # Development team
-[kernaltrap](https://github.com/kernaltrap8): Original idea, lead develiper
+[kernaltrap](https://github.com/kernaltrap8): Original idea, lead developer
 
 [Hydrogen (Ellie)](https://github.com/Hydrogen8): Ideas, second lead developer
